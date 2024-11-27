@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|solutionrelative:tonerhp\\views\\toner\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|c:\\users\\minsaurralde\\source\\repos\\sistema\\sistemalt-master\\tonerhp\\views\\toner\\proveedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|C:\\Users\\Minsaurralde\\source\\repos\\Sistema\\SistemaLT-master\\tonerhp\\views\\toner\\proveedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|solutionrelative:tonerhp\\views\\toner\\proveedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|c:\\users\\minsaurralde\\source\\repos\\sistema\\sistemalt-master\\tonerhp\\views\\toner\\tipos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|C:\\Users\\Minsaurralde\\source\\repos\\Sistema\\SistemaLT-master\\tonerhp\\views\\toner\\tipos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|solutionrelative:tonerhp\\views\\toner\\tipos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "TonerHP\\Views\\Toner\\Tipos.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T14:23:45.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:23:45.154Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "TonerHP\\Views\\Toner\\Proveedores.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T14:23:17.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:23:17.198Z"
             },
             {
               "$type": "Document",
