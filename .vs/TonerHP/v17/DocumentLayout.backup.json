@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minsaurralde\\source\\repos\\Sistema\\SistemaLT-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|c:\\users\\minsaurralde\\source\\repos\\sistema\\sistemalt-master\\tonerhp\\views\\toner\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|solutionrelative:tonerhp\\views\\toner\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|c:\\users\\minsaurralde\\source\\repos\\sistema\\sistemalt-master\\tonerhp\\views\\toner\\proveedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|solutionrelative:tonerhp\\views\\toner\\proveedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|c:\\users\\minsaurralde\\source\\repos\\sistema\\sistemalt-master\\tonerhp\\views\\toner\\tipos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{439369BC-AF22-477F-A2D1-12A9DC6D82A1}|TonerHP\\TonerHP.csproj|solutionrelative:tonerhp\\views\\toner\\tipos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tipos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minsaurralde\\source\\repos\\Sistema\\SistemaLT-master\\TonerHP\\Views\\Toner\\Tipos.cshtml",
+              "RelativeDocumentMoniker": "TonerHP\\Views\\Toner\\Tipos.cshtml",
+              "ToolTip": "C:\\Users\\Minsaurralde\\source\\repos\\Sistema\\SistemaLT-master\\TonerHP\\Views\\Toner\\Tipos.cshtml",
+              "RelativeToolTip": "TonerHP\\Views\\Toner\\Tipos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:23:45.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proveedores.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minsaurralde\\source\\repos\\Sistema\\SistemaLT-master\\TonerHP\\Views\\Toner\\Proveedores.cshtml",
+              "RelativeDocumentMoniker": "TonerHP\\Views\\Toner\\Proveedores.cshtml",
+              "ToolTip": "C:\\Users\\Minsaurralde\\source\\repos\\Sistema\\SistemaLT-master\\TonerHP\\Views\\Toner\\Proveedores.cshtml",
+              "RelativeToolTip": "TonerHP\\Views\\Toner\\Proveedores.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:23:17.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Minsaurralde\\source\\repos\\Sistema\\SistemaLT-master\\TonerHP\\Views\\Toner\\Productos.cshtml",
+              "RelativeDocumentMoniker": "TonerHP\\Views\\Toner\\Productos.cshtml",
+              "ToolTip": "C:\\Users\\Minsaurralde\\source\\repos\\Sistema\\SistemaLT-master\\TonerHP\\Views\\Toner\\Productos.cshtml",
+              "RelativeToolTip": "TonerHP\\Views\\Toner\\Productos.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:22:24.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
